@@ -46,3 +46,7 @@
     const fareCount = parseInt(fareInput.value);
     return fareCount;
   }
+
+  function text(){
+    alert("Passport & Visa please!")
+  }
